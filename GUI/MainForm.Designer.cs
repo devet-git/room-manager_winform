@@ -43,7 +43,6 @@
             this.panelShowScreens = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.panelMenu.SuspendLayout();
             this.panelAccountMenu.SuspendLayout();
             this.panelLogo.SuspendLayout();
@@ -247,7 +246,6 @@
             this.panelShowScreens.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(194)))), ((int)(((byte)(155)))));
             this.panelShowScreens.Controls.Add(this.label3);
             this.panelShowScreens.Controls.Add(this.label2);
-            this.panelShowScreens.Controls.Add(this.label1);
             this.panelShowScreens.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelShowScreens.Location = new System.Drawing.Point(301, 0);
             this.panelShowScreens.Name = "panelShowScreens";
@@ -276,20 +274,6 @@
             this.label2.Size = new System.Drawing.Size(221, 23);
             this.label2.TabIndex = 1;
             this.label2.Text = "Created by Devet and Allies";
-            // 
-            // label1
-            // 
-            this.label1.AllowDrop = true;
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.Font = new System.Drawing.Font("Verdana", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(153, 209);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(812, 224);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Phần mềm quản lý phòng";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MainForm
             // 
@@ -328,7 +312,6 @@
         private System.Windows.Forms.Button BtnChangePassword;
         private System.Windows.Forms.Button BtnRoomAdmin;
         private System.Windows.Forms.Button BtnStaffAdmin;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
     }

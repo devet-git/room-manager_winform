@@ -7,6 +7,10 @@ namespace GUI.Screens.Account
 {
     public partial class SignInScreen : Form
     {
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            ControlPaint.DrawBorder(e.Graphics, ClientRectangle, Color.Black, ButtonBorderStyle.Solid);
+        }
         public SignInScreen()
         {
             InitializeComponent();

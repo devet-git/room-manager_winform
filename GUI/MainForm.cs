@@ -91,7 +91,7 @@ namespace GUI
 
             screen.BringToFront();
             screen.Show();
-        }
+        } 
         private void BtnRoomBooking_Click(object sender, EventArgs e)
         {
             ShowScreen(new Screens.RoomBookingScreen(), sender);
@@ -137,6 +137,5 @@ namespace GUI
         {
             ShowScreen(new Screens.Admin.StaffAdminScreen(), sender);
         }
-
     }
 }

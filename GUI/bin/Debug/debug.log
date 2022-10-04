@@ -1,0 +1,306 @@
+[1001/232600.193:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232600.193:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232600.193:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1001/232600.976:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232600.976:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1001/232601.000:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232601.760:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232601.791:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232601.791:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1001/232602.607:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232602.607:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1001/232602.638:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232603.391:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232603.438:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232603.438:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1001/232604.234:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232604.234:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1001/232604.242:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232605.068:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232605.068:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1001/232605.068:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232605.855:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232605.887:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232605.887:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1001/232606.702:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/232606.806:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/232606.806:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1001/232606.806:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1001/233228.230:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233228.230:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1001/233228.245:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233229.020:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233229.020:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1001/233229.020:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233229.798:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233229.798:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1001/233229.862:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233230.566:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233230.566:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1001/233230.654:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233231.470:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233231.470:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1001/233231.534:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233232.318:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233232.318:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1001/233232.357:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233233.317:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233233.348:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233233.348:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1001/233234.148:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233234.148:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1001/233234.163:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/233234.972:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/233234.972:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1001/233234.972:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1001/234212.191:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234212.222:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234212.222:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1001/234212.974:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234212.998:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234212.998:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1001/234213.767:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234213.767:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1001/234213.807:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234214.526:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234214.526:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1001/234214.604:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234215.339:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234215.339:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1001/234215.410:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234216.177:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234216.177:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1001/234216.208:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234216.886:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234216.886:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1001/234216.918:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234217.648:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234217.648:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1001/234217.679:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234218.389:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234218.389:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1001/234218.389:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1001/234659.368:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234659.408:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234659.408:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1001/234700.191:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234700.222:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234700.222:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1001/234700.990:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234701.036:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234701.036:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1001/234701.707:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234701.755:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234701.755:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1001/234702.461:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234702.508:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234702.508:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1001/234703.236:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234703.276:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234703.276:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1001/234704.004:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234704.052:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234704.052:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1001/234704.708:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234704.747:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234704.747:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1001/234705.411:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234705.530:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234705.530:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1001/234705.530:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1001/234801.987:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234802.062:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234802.062:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1001/234802.896:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234802.940:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234802.940:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1001/234803.721:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234803.721:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1001/234803.729:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234804.442:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234804.442:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1001/234804.489:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234805.196:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234805.196:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1001/234805.233:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234805.888:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234805.888:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1001/234805.950:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234806.642:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234806.642:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1001/234806.661:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234807.357:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234807.389:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234807.389:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1001/234808.052:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/234808.083:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/234808.083:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1001/234808.083:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1001/235533.491:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235533.491:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1001/235533.507:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235534.227:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235534.227:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1001/235534.251:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235534.979:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235535.014:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235535.014:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1001/235535.764:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235535.795:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235535.795:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1001/235536.556:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235536.611:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235536.611:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1001/235537.410:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235537.420:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235537.420:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1001/235538.199:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235538.223:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235538.223:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1001/235538.963:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235538.994:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235538.994:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1001/235539.893:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1001/235539.937:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1001/235539.937:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1001/235539.937:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1002/000320.921:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000320.952:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000320.952:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 1 time(s)
+[1002/000321.672:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000321.704:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000321.704:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 2 time(s)
+[1002/000322.489:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000322.489:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 3 time(s)
+[1002/000322.509:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000323.199:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000323.199:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 4 time(s)
+[1002/000323.199:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000323.914:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000323.974:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000323.975:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 5 time(s)
+[1002/000324.638:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000324.701:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000324.701:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 6 time(s)
+[1002/000325.364:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000325.442:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000325.442:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 7 time(s)
+[1002/000326.131:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000326.178:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000326.178:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 8 time(s)
+[1002/000326.834:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+[1002/000326.897:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=-532462766
+[1002/000326.897:WARNING:gpu_process_host.cc(1267)] The GPU process has crashed 9 time(s)
+[1002/000326.897:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.
+[1002/001850.592:WARNING:frame_impl.cc(452)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[1002/002215.875:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/002215.877:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/002314.949:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/002314.949:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/002345.309:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[1002/002345.416:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[1002/002345.424:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[1002/002345.424:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[1002/002345.426:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[1002/002347.489:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[1002/002347.506:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[1002/002347.511:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[1002/002347.511:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[1002/002347.516:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672970 [10,10]
+[1002/002347.516:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672970 [10,10]
+[1002/002347.516:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672970 [10,10]
+[1002/002347.516:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672970 [10,10]
+[1002/002347.556:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705673 [9,9]
+[1002/002347.558:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705673 [9,9]
+[1002/002347.571:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705673 [9,9]
+[1002/002347.571:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705673 [9,9]
+[1002/002347.587:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738375 [8,7]
+[1002/002347.591:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738375 [8,7]
+[1002/002347.591:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738375 [8,7]
+[1002/002347.591:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738375 [8,7]
+[1002/002347.595:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738378 [8,10]
+[1002/002347.596:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738378 [8,10]
+[1002/002347.596:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738378 [8,10]
+[1002/002347.596:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738378 [8,10]
+[1002/002347.646:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640267 [11,11]
+[1002/002347.646:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640267 [11,11]
+[1002/002347.646:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640267 [11,11]
+[1002/002347.652:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640267 [11,11]
+[1002/002347.696:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705673 [9,9]
+[1002/002347.701:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[1002/002347.716:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672970 [10,10]
+[1002/002347.731:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738375 [8,7]
+[1002/002347.766:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640267 [11,11]
+[1002/002347.996:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607563 [12,11]
+[1002/002348.324:WARNING:browser_info.cc(300)] Returning a speculative frame for 64424509454 [15,14]
+[1002/002348.326:WARNING:browser_info.cc(300)] Returning a speculative frame for 64424509454 [15,14]
+[1002/002348.332:WARNING:browser_info.cc(300)] Returning a speculative frame for 64424509454 [15,14]
+[1002/002348.332:WARNING:browser_info.cc(300)] Returning a speculative frame for 64424509454 [15,14]
+[1002/002348.360:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607563 [12,11]
+[1002/002348.364:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607563 [12,11]
+[1002/002348.366:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607563 [12,11]
+[1002/002348.366:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607563 [12,11]
+[1002/002348.366:WARNING:browser_info.cc(300)] Returning a speculative frame for 55834574860 [13,12]
+[1002/002348.376:WARNING:browser_info.cc(300)] Returning a speculative frame for 68719476751 [16,15]
+[1002/002348.396:WARNING:browser_info.cc(300)] Returning a speculative frame for 55834574860 [13,12]
+[1002/002348.397:WARNING:browser_info.cc(300)] Returning a speculative frame for 55834574860 [13,12]
+[1002/002348.397:WARNING:browser_info.cc(300)] Returning a speculative frame for 55834574860 [13,12]
+[1002/002348.397:WARNING:browser_info.cc(300)] Returning a speculative frame for 55834574860 [13,12]
+[1002/002348.397:WARNING:browser_info.cc(300)] Returning a speculative frame for 60129542157 [14,13]
+[1002/002348.421:WARNING:browser_info.cc(300)] Returning a speculative frame for 64424509454 [15,14]
+[1002/002418.576:WARNING:browser_info.cc(300)] Returning a speculative frame for 77309411345 [18,17]
+[1002/002418.590:WARNING:browser_info.cc(300)] Returning a speculative frame for 81604378642 [19,18]
+[1002/002418.590:WARNING:browser_info.cc(300)] Returning a speculative frame for 85899345939 [20,19]
+[1002/002418.637:WARNING:browser_info.cc(300)] Returning a speculative frame for 73014444048 [17,16]
+[1002/002418.637:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313236 [21,20]
+[1002/002418.678:WARNING:browser_info.cc(300)] Returning a speculative frame for 81604378642 [19,18]
+[1002/002418.678:WARNING:browser_info.cc(300)] Returning a speculative frame for 81604378642 [19,18]
+[1002/002418.678:WARNING:browser_info.cc(300)] Returning a speculative frame for 81604378642 [19,18]
+[1002/002418.678:WARNING:browser_info.cc(300)] Returning a speculative frame for 81604378642 [19,18]
+[1002/002418.767:WARNING:browser_info.cc(300)] Returning a speculative frame for 77309411345 [18,17]
+[1002/002418.767:WARNING:browser_info.cc(300)] Returning a speculative frame for 77309411345 [18,17]
+[1002/002418.767:WARNING:browser_info.cc(300)] Returning a speculative frame for 77309411345 [18,17]
+[1002/002418.767:WARNING:browser_info.cc(300)] Returning a speculative frame for 77309411345 [18,17]
+[1002/002418.836:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313236 [21,20]
+[1002/002418.836:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313236 [21,20]
+[1002/002418.836:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313236 [21,20]
+[1002/002418.836:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313236 [21,20]
+[1002/002449.371:WARNING:browser_info.cc(300)] Returning a speculative frame for 103079215127 [24,23]
+[1002/002449.396:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149721 [26,25]
+[1002/002449.406:WARNING:browser_info.cc(300)] Returning a speculative frame for 98784247830 [23,22]
+[1002/002449.411:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280533 [22,21]
+[1002/002449.456:WARNING:browser_info.cc(300)] Returning a speculative frame for 107374182424 [25,24]
+[1002/002449.506:WARNING:browser_info.cc(300)] Returning a speculative frame for 120259084315 [28,27]
+[1002/002449.518:WARNING:browser_info.cc(300)] Returning a speculative frame for 115964117018 [27,26]
+[1002/002449.582:WARNING:browser_info.cc(300)] Returning a speculative frame for 124554051612 [29,28]
+[1002/002451.793:WARNING:browser_info.cc(300)] Returning a speculative frame for 124554051612 [29,28]
+[1002/002451.793:WARNING:browser_info.cc(300)] Returning a speculative frame for 124554051612 [29,28]
+[1002/002451.793:WARNING:browser_info.cc(300)] Returning a speculative frame for 124554051612 [29,28]
+[1002/002451.793:WARNING:browser_info.cc(300)] Returning a speculative frame for 124554051612 [29,28]
+[1002/002452.175:WARNING:browser_info.cc(300)] Returning a speculative frame for 115964117018 [27,26]
+[1002/002452.176:WARNING:browser_info.cc(300)] Returning a speculative frame for 115964117018 [27,26]
+[1002/002452.176:WARNING:browser_info.cc(300)] Returning a speculative frame for 115964117018 [27,26]
+[1002/002452.176:WARNING:browser_info.cc(300)] Returning a speculative frame for 115964117018 [27,26]
+[1002/002452.296:WARNING:browser_info.cc(300)] Returning a speculative frame for 103079215127 [24,23]
+[1002/002452.296:WARNING:browser_info.cc(300)] Returning a speculative frame for 103079215127 [24,23]
+[1002/002452.299:WARNING:browser_info.cc(300)] Returning a speculative frame for 103079215127 [24,23]
+[1002/002452.299:WARNING:browser_info.cc(300)] Returning a speculative frame for 103079215127 [24,23]
+[1002/002452.496:WARNING:browser_info.cc(300)] Returning a speculative frame for 107374182424 [25,24]
+[1002/002452.504:WARNING:browser_info.cc(300)] Returning a speculative frame for 107374182424 [25,24]
+[1002/002452.506:WARNING:browser_info.cc(300)] Returning a speculative frame for 107374182424 [25,24]
+[1002/002452.506:WARNING:browser_info.cc(300)] Returning a speculative frame for 107374182424 [25,24]
+[1002/002452.796:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149721 [26,25]
+[1002/002452.802:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149721 [26,25]
+[1002/002452.802:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149721 [26,25]
+[1002/002452.802:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149721 [26,25]
+[1002/002514.696:ERROR:gpu_init.cc(486)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1002/005423.294:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/005423.298:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/005424.895:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 69
+[1002/081148.442:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/081148.450:INFO:CONSOLE(1)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://cdn.htmlgames.com/RedAndGreen/js/game.js (1)
+[1002/081149.311:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 3
+[1002/081149.652:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 13
+[1002/081151.501:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 19
+[1002/081151.501:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 17
+[1002/082321.445:ERROR:gpu_init.cc(486)] Passthrough is not supported, GL is disabled, ANGLE is 

@@ -58,9 +58,9 @@
             this.panelLogin.Controls.Add(this.TxtPhone);
             this.panelLogin.Controls.Add(this.LbPhoneNum);
             this.panelLogin.Controls.Add(this.BtnSignIn);
-            this.panelLogin.Location = new System.Drawing.Point(373, 96);
+            this.panelLogin.Location = new System.Drawing.Point(205, 50);
             this.panelLogin.Name = "panelLogin";
-            this.panelLogin.Size = new System.Drawing.Size(432, 398);
+            this.panelLogin.Size = new System.Drawing.Size(428, 398);
             this.panelLogin.TabIndex = 4;
             // 
             // TxtPassword
@@ -123,7 +123,7 @@
             this.BtnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnClose.ForeColor = System.Drawing.Color.White;
-            this.BtnClose.Location = new System.Drawing.Point(1098, 0);
+            this.BtnClose.Location = new System.Drawing.Point(769, 0);
             this.BtnClose.Margin = new System.Windows.Forms.Padding(0);
             this.BtnClose.Name = "BtnClose";
             this.BtnClose.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -139,7 +139,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1158, 583);
+            this.ClientSize = new System.Drawing.Size(829, 490);
             this.ControlBox = false;
             this.Controls.Add(this.BtnClose);
             this.Controls.Add(this.panelLogin);
