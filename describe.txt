@@ -1,0 +1,36 @@
+﻿Màn hình phòng
+	Chọn 1 ngày muốn đặt phòng -> hiện ra tình trạng các phòng trong ngày đó.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

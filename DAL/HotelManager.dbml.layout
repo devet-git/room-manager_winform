@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="HotelManager">
+  <DataContextMoniker Name="/HotelManagerDataContext" />
+  <nestedChildShapes>
+    <classShape Id="747bdb7a-f872-4f35-b6ed-2e11358ad726" absoluteBounds="3, 1.25, 2, 2.101748084127903">
+      <DataClassMoniker Name="/HotelManagerDataContext/room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b29998ca-c290-44a1-bf4b-1962e0f4617b" absoluteBounds="3.015, 1.71, 1.9700000000000002, 1.541748084127903" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a32e5ade-e1fd-4ec0-8046-1856da990ec2" absoluteBounds="5.75, 1.375, 2, 2.101748084127903">
+      <DataClassMoniker Name="/HotelManagerDataContext/user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6244d8e8-b596-4013-84cc-95a62429ec60" absoluteBounds="5.765, 1.835, 1.9700000000000002, 1.541748084127903" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="faf8a644-08a5-419a-a46d-5e38944e150e" absoluteBounds="0.625, 0.625, 2, 2.7340723177790642">
+      <DataClassMoniker Name="/HotelManagerDataContext/booking" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7677496c-b903-4e7e-8e23-5d32d578b163" absoluteBounds="0.64000000000000012, 1.085, 1.9700000000000002, 2.1740723177790642" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6544d61f-e7e5-4063-a7c0-ec0f59f5a5a4" absoluteBounds="2.375, 3.625, 2, 1.8909733395775157">
+      <DataClassMoniker Name="/HotelManagerDataContext/payment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6cb97724-8e5a-495f-90d5-e534206ad4ec" absoluteBounds="2.39, 4.085, 1.9700000000000002, 1.3309733395775158" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

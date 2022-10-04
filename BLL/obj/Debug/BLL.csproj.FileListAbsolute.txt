@@ -1,0 +1,10 @@
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\bin\Debug\BLL.dll
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\bin\Debug\BLL.pdb
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\bin\Debug\DAL.dll
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\bin\Debug\DAL.pdb
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\bin\Debug\DAL.dll.config
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\obj\Debug\BLL.dll
+D:\Knowledge\Software\.NET\Winform\HotelManager\BLL\obj\Debug\BLL.pdb

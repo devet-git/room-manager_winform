@@ -1,0 +1,7 @@
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\bin\Debug\DAL.dll.config
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\bin\Debug\DAL.dll
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\bin\Debug\DAL.pdb
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\obj\Debug\DAL.dll
+D:\Knowledge\Software\.NET\Winform\HotelManager\DAL\obj\Debug\DAL.pdb
